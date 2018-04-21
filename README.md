@@ -1,5 +1,6 @@
 
-# [Personal scripts and code](https://github.com/urluzhi/PI) shared by Zhi John Lu.
+# [Personal scripts and code](https://github.com/urluzhi/PI) 
+shared by Zhi John Lu
 # [Lu Lab's github](https://lulab.github.io)
 
 
