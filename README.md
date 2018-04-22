@@ -1,5 +1,5 @@
 
-# [Personal scripts and code](https://urluzhi.github.com/scripts) 
+# [Personal scripts and code](https://urluzhi.github.io/scripts) 
 shared by Zhi John Lu
 # [Lu Lab's github](https://lulab.github.io)
 shared by Lu Lab @ Tsinghua University
